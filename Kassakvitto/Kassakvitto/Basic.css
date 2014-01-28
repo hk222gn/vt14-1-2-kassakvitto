@@ -1,2 +1,21 @@
 ﻿body {
 }
+#main {
+    margin:0 auto;
+    width:250px;
+}
+#recieptbox {
+    margin-top:20px;
+    width:200px;
+    border:1px solid black;
+    padding:2px;
+}
+#reciept {
+}
+.center {
+    text-align:center;
+    border-bottom:dotted 1px black;
+}
+.right {
+    float:right;
+}
